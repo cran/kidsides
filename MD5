@@ -1,0 +1,15 @@
+a01ad5992ee3c0a953bc8a1e0e236048 *DESCRIPTION
+8fe08ee2c6872ceeb0a28daf117fcd9d *NAMESPACE
+18eba0e97289b45ca4bde480079a9fc7 *R/functions.R
+674b419b7393d94983b39aea265b146e *README.md
+8ab0fb1b852eedf3cefec9c3706be610 *build/vignette.rds
+d561611fb70c43a6377719ac54428a74 *inst/doc/KidSIDES.R
+55aa135efbc078128650306a6588801c *inst/doc/KidSIDES.Rmd
+36073764cf7ada9409813907c5329e6d *inst/doc/KidSIDES.html
+6f9516ca079a649c687333bd4a4c1dec *man/connect_sqlite_db.Rd
+632b27bf33fa6bc3ee44140a527e5ac9 *man/disconnect_sqlite_db.Rd
+96eb086644228fef753bd2df82a22dbf *man/download_sqlite_db.Rd
+8f8d3b443f5d376713fb2e49fe62a453 *man/get_db_path.Rd
+101df8e8e95b1f31ad060feb15eb5b50 *tests/testthat.R
+38cf0d2be8b89116aa412908641150ef *tests/testthat/test-functions.R
+55aa135efbc078128650306a6588801c *vignettes/KidSIDES.Rmd
