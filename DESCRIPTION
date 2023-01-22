@@ -1,6 +1,6 @@
 Package: kidsides
 Title: Download, Cache, and Connect to KidSIDES
-Version: 0.4.0
+Version: 0.4.1
 Authors@R: c(
     person("Nicholas", "Giangreco", 
     email = "nick.giangreco@gmail.com", 
@@ -28,8 +28,8 @@ VignetteBuilder: knitr
 Depends: R (>= 4.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-01-11 22:48:21 UTC; nickgiangreco
+Packaged: 2023-01-22 01:07:01 UTC; nickgiangreco
 Author: Nicholas Giangreco [aut, cph, cre]
     (<https://orcid.org/0000-0001-8138-4947>)
 Repository: CRAN
-Date/Publication: 2023-01-13 09:40:02 UTC
+Date/Publication: 2023-01-22 20:40:02 UTC
